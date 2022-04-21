@@ -1,0 +1,342 @@
+{
+    "items":[
+    {
+    "id": 1,
+    "title": "Margherita",
+    "price": 239,
+    "description":"Classic delight with 100% real mozzarella cheese",
+    "category": "BESTSELLERS",
+    "image": "https://images.dominos.co.in/new_margherita_2502.jpg",
+    "rating": {
+    "rate": 3.9,
+    "count": 120
+    }
+    },
+    {
+    "id": 2,
+    "title": "The 4 Cheese Pizza",
+    "price": 639,
+    "description": "Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza, including a spicy hit of Ghost Pepper flavoured Cheese",
+    "category": "BESTSELLERS",
+    "image": "https://images.dominos.co.in/PIZ0171.jpg",
+    "rating": {
+    "rate": 4.1,
+    "count": 259
+    }
+    },
+    {
+    "id": 3,
+    "title": "Farmhouse",
+    "price": 459,
+    "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+    "category": "BESTSELLERS",
+    "image": "https://images.dominos.co.in/farmhouse.png",
+    "rating": {
+    "rate": 4.7,
+    "count": 500
+    }
+    },
+    {
+    "id": 4,
+    "title": "Peppy Paneer",
+    "price": 15.99,
+    "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",
+    "category": "BESTSELLERS",
+    "image": "https://images.dominos.co.in/new_peppy_paneer.jpg",
+    "rating": {
+    "rate": 2.1,
+    "count": 430
+    }
+    },
+    {
+    "id": 5,
+    "title": "Veg Extravaganza",
+    "price": 549,
+    "description": "Veg Extravaganza",
+    "category": "BESTSELLERS",
+    "image": "https://images.dominos.co.in/new_veg_extravaganza.jpg",
+    "rating": {
+    "rate": 4.6,
+    "count": 400
+    }
+    },
+    {
+    "id": 6,
+    "title": "Veggie Paradise ",
+    "price":  459,
+    "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+    "category": "BESTSELLERS",
+    "image": "https://images.dominos.co.in/new_veggie_paradise.jpg",
+    "rating": {
+    "rate": 3.9,
+    "count": 70
+    }
+    },
+    {
+    "id": 7,
+    "title": "Paneer Tikka Stuffed Garlic Bread",
+    "price": 169.00,
+    "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top",
+    "category": "NEW LAUNCHES",
+    "image": "https://images.dominos.co.in/BRD0030.png",
+    "rating": {
+    "rate": 3,
+    "count": 400
+    }
+    },
+    {
+    "id": 8,
+    "title": "The Cheese Dominator",
+    "price": 639.00,
+    "description": "Loaded with 1 Pound of Mozzarella and gooey Liquid Cheese on a Classic Large Pizza topped with a generous helping of herb sprinkle",
+    "category": "NEW LAUNCHES",
+    "image": "https://images.dominos.co.in/PIZ0170.jpg",
+    "rating": {
+    "rate": 1.9,
+    "count": 100
+    }
+    },
+    {
+    "id": 9,
+    "title": "Red Velvet Lava Cake",
+    "price": 139.00,
+    "description": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!",
+    "category": "NEW LAUNCHES",
+    "image": "https://images.dominos.co.in/CAKE03.jpg",
+    "rating": {
+    "rate": 3.3,
+    "count": 203
+    }
+    },
+    {
+    "id": 10,
+    "title": "Moroccan Spice Pasta Pizza - Veg",
+    "price": 109.00,
+    "description": "A pizza loaded with a spicy combination of Harissa sauce and delicious pasta.",
+    "category": "NEW LAUNCHES",
+    "image": "https://images.dominos.co.in/MoroccanSpicePPVG_N.jpg",
+    "rating": {
+    "rate": 2.9,
+    "count": 470
+    }
+    },
+    {
+    "id": 11,
+    "title": "Meal for 4: Farmhouse & Peppy Paneer Combo",
+    "price": 1050.00,
+    "description": "Med Farmhouse + Peppy Paneer + 2 Garlic Bread + 2 Pepsi",
+    "category": "MEALS & COMBOS",
+    "image": "https://images.dominos.co.in/4420-CMB1065.jpg",
+    "rating": {
+    "rate": 4.8,
+    "count": 319
+    }
+    },
+    {
+    "id": 12,
+    "title": "Ultimate Cheese Burst Deluxe Combo (Veg)",
+    "price": 769.00,
+    "description": "Medium Farmhouse Cheese Burst Pizza + Choco Lava Cake + Garlic Bread",
+    "category": "MEALS & COMBOS",
+    "image": "https://images.dominos.co.in/CMB1190.jpg",
+    "rating": {
+    "rate": 4.8,
+    "count": 400
+    }
+    },
+    {
+    "id": 13,
+    "title": "Pizza & Juice Partnership - Paneer Spl Comb (Meal for 2)",
+    "price": 599.00,
+    "description": "Med Peppy Paneer + Garlic Bread + B Natural Pink Guavas from Dakshin India + B Natural Mixed Fruit from Himalayas",
+    "category": "MEALS & COMBOS",
+    "image": "https://images.dominos.co.in/MEALFOR2PIZZAWITHJUICEPARTNERSHIPCOMBOVEG.jpg",
+    "rating": {
+    "rate": 2.9,
+    "count": 250
+    }
+    },
+    {
+    "id": 14,
+    "title": "Family House Party – Veg Deluxe Combo",
+    "price": 1459.00,
+    "description": "Large Veg Extravaganza Pizza + 2 Garlic Bread + 4 Choco lava cake + 2 Pepsi",
+    "category": "MEALS & COMBOS",
+    "image": "https://images.dominos.co.in/meal_4_party_combo_veg_extravaganza.jpg",
+    "rating": {
+    "rate": 2.2,
+    "count": 140
+    }
+    },
+    {
+    "id": 15,
+    "title": "Veg Loaded",
+    "price": 159.00,
+    "description": "Tomato, Jalapeno, Corn, Grilled Mushroom & crushed Aranchini Patty in a fresh pan crust",
+    "category": "PIZZA MANIA",
+    "image": "https://images.dominos.co.in/pizza_mania_veg_loaded.png",
+    "rating": {
+    "rate": 2.6,
+    "count": 235
+    }
+    },
+    {
+    "id": 16,
+    "title": "Paneer & Onion",
+    "price": 119.00,
+    "description": "Paneer & Onion",
+    "category": "PIZZA MANIA",
+    "image": "https://images.dominos.co.in/pizza_mania_paneer_onion.png",
+    "rating": {
+    "rate": 2.9,
+    "count": 340
+    }
+    },
+    {
+    "id": 17,
+    "title": "Cheesy",
+    "price": 109.00,
+    "description": "Cheese lovers paradise, loaded with mozzarella, cheddar & gouda cheese",
+    "category": "PIZZA MANIA",
+    "image": "https://images.dominos.co.in/pizza_mania_cheesy.png",
+    "rating": {
+    "rate": 3.8,
+    "count": 679
+    }
+    },
+    {
+    "id": 18,
+    "title": "Capsicum",
+    "price": 89.00,
+    "description": "Fresh & crisp capsicum for the perfect crunch in pizza",
+    "category": "PIZZA MANIA",
+    "image": "https://images.dominos.co.in/pizza_mania_capsicum.png",
+    "rating": {
+    "rate": 4.7,
+    "count": 130
+    }
+    },
+    {
+    "id": 19,
+    "title": "Golden Corn",
+    "price": 89.00,
+    "description": "Golden Corn",
+    "category": "PIZZA MANIA",
+    "image": "https://images.dominos.co.in/pizza_mania_golden_corn.png",
+    "rating": {
+    "rate": 4.5,
+    "count": 146
+    }
+    },
+    {
+    "id": 20,
+    "title": "Onion",
+    "price": 69.00,
+    "description": "Crunchy onion on a cheesy base. The pizza mania classic",
+    "category": "PIZZA MANIA",
+    "image": "https://images.dominos.co.in/pizza_mania_onion.png",
+    "rating": {
+    "rate": 3.6,
+    "count": 145
+    }
+    },
+    {
+        "id": 21,
+        "title": "Garlic Breadsticks",
+        "price": 109.00,
+        "description": "Baked to perfection. Your perfect pizza partner! Tastes best with dip",
+        "category": "SIDES",
+        "image": "https://images.dominos.co.in/cart/Garlic_bread.png",
+        "rating": {
+        "rate": 3.6,
+        "count": 145
+        }
+    },
+    {
+        "id": 22,
+        "title": "Cheesy Dip",
+        "price": 30.00,
+        "description": "An all-time favorite with your Garlic Breadsticks & Stuffed Garlic Bread for a Cheesy indulgence",
+        "category": "SIDES",
+        "image": "https://images.dominos.co.in/new_cheesy.png",
+        "rating": {
+        "rate": 3.6,
+        "count": 145
+        }
+    },
+    {
+        "id": 23,
+        "title": "Cheesy Jalapeno Dip",
+        "price": 30.00,
+        "description": "A spicy, tangy flavored cheese dip is a an absolute delight with your favourite Garlic Breadsticks & Stuffed Garlic Bread",
+        "category": "SIDES",
+        "image": "https://images.dominos.co.in/new_jalapeno.png",
+        "rating": {
+        "rate": 3.6,
+        "count": 145
+        }
+    },
+    {
+        "id": 24,
+        "title": "Veg Parcel",
+        "price": 45.00,
+        "description": "Snacky bites! Pizza rolls with paneer & creamy harissa sauce",
+        "category": "SIDES",
+        "image": "https://images.dominos.co.in/Parcel_Veg.jpg",
+        "rating": {
+        "rate": 3.6,
+        "count": 145
+        }
+    },
+    {
+        "id": 25,
+        "title": "Pepsi (500ml)",
+        "price": 60.00,
+        "description": "Sparkling and Refreshing Beverage",
+        "category": "BEVERAGES",
+        "image": "https://images.dominos.co.in/BEV0119_1.jpg",
+        "rating": {
+        "rate": 3.6,
+        "count": 145
+        }
+    },
+    {
+        "id": 26,
+        "title": "7Up (500ml)",
+        "price": 60.00,
+        "description": "Refreshing clear drink with a natural lemon flavor",
+        "category": "BEVERAGES",
+        "image": "https://images.dominos.co.in/7up_new_2202.jpg",
+        "rating": {
+        "rate": 3.6,
+        "count": 145
+        }
+    },
+    {
+        "id": 27,
+        "title": "Butterscotch Mousse Cake",
+        "price": 109.00,
+        "description": "Sweet temptation! Butterscotch flavored mousse",
+        "category": "DESSERT",
+        "image": "https://images.dominos.co.in/Butterscotch.png",
+        "rating": {
+        "rate": 3.6,
+        "count": 145
+        }
+    },
+    {
+        "id": 28,
+        "title": "Brownie Fantasy",
+        "price": 79.00,
+        "description": "Sweet Temptation! Hot Chocolate Brownie drizzled with chocolate fudge sauce",
+        "category": "DESSERT",
+        "image": "https://images.dominos.co.in/Brownie_Fantasy.png",
+        "rating": {
+        "rate": 3.6,
+        "count": 145
+        }
+    }
+    
+        
+    ]
+}

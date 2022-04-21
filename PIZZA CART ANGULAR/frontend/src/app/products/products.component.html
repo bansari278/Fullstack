@@ -1,0 +1,60 @@
+<!-- <div class="p-4">
+    <div class="container">
+        <h1>Hi {{user.firstName}}!</h1>
+        <p><a routerLink="/users">Manage Users</a></p>
+        </div>
+        </div> -->
+<div class="card-top container-fluid">
+    <div class="container d-flex justify-content-between">
+        <div class="item" id="item-b">
+            <a (click)="filter('')">
+                <h6>BESTSELLERS</h6>
+            </a>
+        </div>
+        <div class="item">
+            <a (click)="filter('NEW LAUNCHES')">
+                <h6>NEW LAUNCHES</h6>
+            </a>
+        </div>
+        <div class="item">
+            <a (click)="filter('MEALS & COMBOS')">
+                <h6>MEALS & COMBOS</h6>
+            </a>
+        </div>
+        <div class="item">
+            <a (click)="filter('PIZZA MANIA')">
+                <h6>PIZZA MANIA</h6>
+            </a>
+        </div>
+        <div class="item">
+            <a (click)="filter('SIDES')">
+                <h6>SIDES</h6>
+            </a>
+        </div>
+        <div class="item">
+            <a (click)="filter('BEVERAGES')">
+                <h6>BEVERAGES</h6>
+            </a>
+        </div>
+        <div class="item">
+            <a (click)="filter('DESSERT')">
+                <h6>DESSERT</h6>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <ng-container *ngFor="let item of filterCategory | filter:searchKey:'title'">
+            <div class="card col-md-3">
+                <img src="{{item.image}}" alt="">
+                <h5 style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;max-width: 100ch;">{{item.title}}</h5>
+                <p style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;max-width: 100ch;">{{item.description}}</p>
+                <p><strong>Price: </strong>₹ {{item.price}}</p>
+                <button class="btn btn-primary" (click)=addtocart(item)>Add to cart</button>
+            </div>
+        </ng-container>
+
+    </div>
+</div>
